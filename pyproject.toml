@@ -1,7 +1,7 @@
 [project]
 name = "crypto-sentiment-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "An MCP server that delivers cryptocurrency sentiment analysis to AI agents."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
